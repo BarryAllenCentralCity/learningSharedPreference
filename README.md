@@ -1,2 +1,2 @@
-# learningSharedPreference
-learning shared preference using Kotlin on Android Studio
+# LearningSharedPreference
+ learning shared preference in Android Studio using Kotlin
